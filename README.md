@@ -9,4 +9,4 @@ Gate counts: 26 24 25 18 26 26 26 23 (avg. 24.25)
 
 Depth: 8 7 7 6 7 7 6 8 (avg. 7)
 
-by DeepLearningJohnDoe <deeplearningjohndoe [at] gmail.com> 
+by DeepLearningJohnDoe (deeplearningjohndoe [at] gmail.com) 
