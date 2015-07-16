@@ -5,8 +5,8 @@ Bitslice DES S-boxes with LOP3.LUT instructions for NVIDIA Maxwell architecture 
 
 version 0.1.1, 2015/07/14
 
-Gate counts: 26 24 25 18 26 26 26 23 (avg. 24.25)
+Gate counts: 25 24 25 18 25 24 25 23 (avg. 23.625)
 
-Depth: 8 7 7 6 7 7 6 8 (avg. 7)
+Depth: 8 7 7 6 8 10 6 8 (avg. 7.5)
 
 by DeepLearningJohnDoe (deeplearningjohndoe [at] gmail.com) 
